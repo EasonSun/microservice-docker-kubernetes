@@ -29,3 +29,11 @@ TODO:
 work on fe
 
 use kubernetes
+
+borrowed from https://resources.oreilly.com/examples/0636920048244/
+
+ref
+
+https://docs.docker.com/compose/networking/#links
+https://github.com/resque/resque
+https://github.com/resque/resque
