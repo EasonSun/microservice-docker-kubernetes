@@ -22,6 +22,8 @@ prod env
 
 kubernetes
 
+![alt text](https://github.com/EasonSun/microservice-docker-kubernetes/overall.png)
+
 TODO: 
 
 work on fe
