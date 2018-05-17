@@ -22,7 +22,7 @@ prod env
 
 kubernetes
 
-![overall diagram](https://raw.githubusercontent.com/EasonSun/microservice-docker-kubernetes/overall.png)
+![overall diagram](https://github.com/EasonSun/microservice-docker-kubernetes/blob/master/overall.png)
 
 TODO: 
 
